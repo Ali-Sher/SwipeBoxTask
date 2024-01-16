@@ -1,0 +1,6 @@
+framework module Pods_SwipeBoxTask {
+  umbrella header "Pods-SwipeBoxTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
